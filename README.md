@@ -30,17 +30,21 @@ Each folder for date (labeled below as ABCD) contains:
 
 These are the files that include the data from the real-time RTBox simulations, which plot different aspects of the data, shown as Figures 13-15 in the paper.
 
-Zip File: MATLAB_Figure_Files_20260909.zip
+Zip File: MATLAB_Figure_13_Files_20260909.zip
 
-Folder: Fig13 - Matlab (.m) file, PV Power data for each day (.csv), and Matlab data file from the grid and reinforcement-learning algorithm (.mat)
+Contains: Matlab (.m) file and PV Power data for each day (.csv)
 
 > PVPowerCurveHILtesting.m (open and run this file)
 
-Folder: Fig14 - Matlab (.m) file, battery power and grid power data for each day (.csv), and Matlab data file from the grid and reinforcement-learning algorithm (.mat)
+Zip File: MATLAB_Figure_14_Files_20260909.zip
+
+Contains: Matlab (.m) file and Battery Power and Grid Power data for each day (.csv)
 
 > GridandBatteryPowerHiltesting.m (open and run this file)
 
-Folder: Fig15 - Matlab (.m) file, data for each day (.csv), and Matlab data file from the grid and reinforcement-learning algorithm (.mat)
+Zip File: MATLAB_Figure_15_Files_20260909.zip
+
+Contains: Matlab (.m) file, data for each day (.csv), and Matlab data file with PV data (.mat)
 
 > RLAlgMI_GridLevelData_plots.m (open and run this file)
 
